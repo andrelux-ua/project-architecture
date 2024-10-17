@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/js/script-test.js"],"sourcesContent":["document.addEventListener(\"DOMContentLoaded\", function() {\n    const greeting = document.createElement(\"h1\");\n    greeting.textContent = \"Ласкаво просимо на наш сайт!\";\n    document.body.appendChild(greeting);\n});"],"names":["greeting"],"mappings":"0uBAAA,SAAS,iBAAiB,mBAAoB,UAAW,CACrD,MAAMA,EAAW,SAAS,cAAc,IAAI,EAC5CA,EAAS,YAAc,+BACvB,SAAS,KAAK,YAAYA,CAAQ,CACtC,CAAC"}
